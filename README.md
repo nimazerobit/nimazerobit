@@ -10,7 +10,7 @@
 
 ###
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning nothing XD
 
 - 👨‍💻 All of my projects are available at [https://nimawebdev.ir](https://nimawebdev.ir)
 
