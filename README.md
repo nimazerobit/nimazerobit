@@ -2,10 +2,6 @@
 
 ###
 
-<p align="center">noob developer from iran 😂</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
