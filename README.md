@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Nima</h1>
+<h1 align="center">Hi 👋 I'm Nima Keshavarz</h1>
 
 ###
 
@@ -10,12 +10,12 @@
 
 - 👨‍💻 All of my projects are available at [https://nimawebdev.ir](https://nimawebdev.ir)
 
-- 📫 How to reach me **https://t.me/nimawebdev**
+- 📫 How to reach me **https://t.me/nimazerobit**
 
 ###
 
 <div align="left">
-  <a href="https://t.me/nimawebdev" target="_blank">
+  <a href="https://t.me/nimazerobit" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
   <a href="https://discord.gg/jKh6UttcM8" target="_blank">
