@@ -6,8 +6,6 @@
 
 ###
 
-- 🌱 I’m currently learning nothing XD
-
 - 👨‍💻 All of my projects are available at [https://nimazerobit.ir](https://nimazerobit.ir)
 
 - 📫 How to reach me **https://t.me/nimazerobit**
