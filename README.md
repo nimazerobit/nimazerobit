@@ -17,7 +17,9 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,python,arduino,cs,git)](#)
+  <a href="#">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=js,html,css,php,mysql,python,arduino,cs,git)" />
+  </a>
 </p>
 
 ---
