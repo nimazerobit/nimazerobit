@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="#">
-    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=js,html,css,php,mysql,python,arduino,cs,git)" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,php,mysql,python,arduino,cs,git" />
   </a>
 </p>
 
