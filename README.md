@@ -12,8 +12,8 @@
 [![My Skills](https://skillicons.dev/icons?i=python,django,flask,vuejs,nuxtjs,javascript,php,html,css,tailwindcss,markdown,bash,nginx,vscode,visualstudio,git,figma,sqlite,linux,ubuntu,cs,golang,wordpress&theme=dark&perline=13)](https://skillicons.dev)
 
 ## 🌐 Socials
-[![telegramdm](https://img.shields.io/badge/Telegram%20DM-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/nimazerobit)
-[![telegramchannel](https://img.shields.io/badge/Telegram%20Channel-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/ZeroBitTeam) 
+[![telegramdm](https://img.shields.io/badge/Telegram%20DM-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://telegram.me/nimazerobit)
+[![telegramchannel](https://img.shields.io/badge/Telegram%20Channel-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://telegram.me/ZeroBitTeam) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:nimakeshavarz86@gmail.com) 
 
 ## 📊 GitHub Stats
